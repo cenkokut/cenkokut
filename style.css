@@ -1,0 +1,30 @@
+*, *::after, *::before
+{
+    box-sizing: border-box;
+}
+
+article p.sub-text
+{
+    margin: 20px 0;
+}
+.content
+{
+    display: flex;
+}
+
+.content span
+{
+    font-weight: 600;
+}
+
+.sub-title
+{
+    background-color: purple;
+    color: #f6f6f6;
+}
+
+p.info
+{
+    background-color: purple;
+    color: #f6f6f6;
+}
